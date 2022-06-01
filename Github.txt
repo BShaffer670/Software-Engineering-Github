@@ -1,0 +1,14 @@
+https://github.com/kivutar/tethical.git
+	This is a tactical RPG engine. I really like this project because it is a dedicated engine to one of my favorite game genres. It also says it has online capabilities, which not many tactical RPGs have.
+
+https://github.com/aseprite/aseprite.git
+	This project is a sprite maker and animator, from what I have read it appears to only make two-dimensional sprites. It gives the tools you need to make pixel art, which is an art style I really like. Having an easy-to-use sprite maker will make one of the most difficult parts, in my opinion, much easier.
+
+https://github.com/fastlane/fastlane.git
+	Fastlane is a helper for mobile development that takes care of the busy work like generating screenshots and profiles. However, the project only says it is for android and IOS. For a mobile developer, or someone learning about that, this would be a big help as it deals with some day-to-day stuff.
+
+https://github.com/opf/openproject.git
+	This project is a project manager that tracks meetings, individual goals, deadlines, and more. As someone who struggles keeping everything straight, I find this project to be helpful in many ways. It allows tracking of individual things, keeping them separate and preventing a mix-up by reading the wrong deadline for a certain task.
+
+https://github.com/github/gitignore.git
+	Has a vast collection of .gitignore files that allow me to easily fix problems that come about from visual studio, or other coding programs, trying to load and read things it should not.
